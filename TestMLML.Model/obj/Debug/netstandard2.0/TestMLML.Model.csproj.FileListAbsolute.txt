@@ -1,0 +1,10 @@
+C:\Users\SergeyDN\source\repos\TestMLML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\SergeyDN\source\repos\TestMLML.Model\bin\Debug\netstandard2.0\TestMLML.Model.deps.json
+C:\Users\SergeyDN\source\repos\TestMLML.Model\bin\Debug\netstandard2.0\TestMLML.Model.dll
+C:\Users\SergeyDN\source\repos\TestMLML.Model\bin\Debug\netstandard2.0\TestMLML.Model.pdb
+C:\Users\SergeyDN\source\repos\TestMLML.Model\obj\Debug\netstandard2.0\TestMLML.Model.csprojAssemblyReference.cache
+C:\Users\SergeyDN\source\repos\TestMLML.Model\obj\Debug\netstandard2.0\TestMLML.Model.AssemblyInfoInputs.cache
+C:\Users\SergeyDN\source\repos\TestMLML.Model\obj\Debug\netstandard2.0\TestMLML.Model.AssemblyInfo.cs
+C:\Users\SergeyDN\source\repos\TestMLML.Model\obj\Debug\netstandard2.0\TestMLML.Model.csproj.CoreCompileInputs.cache
+C:\Users\SergeyDN\source\repos\TestMLML.Model\obj\Debug\netstandard2.0\TestMLML.Model.dll
+C:\Users\SergeyDN\source\repos\TestMLML.Model\obj\Debug\netstandard2.0\TestMLML.Model.pdb
